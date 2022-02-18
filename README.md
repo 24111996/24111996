@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @24111996
+- 👋 Hi, I’m Wiltah Ochieng
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on building a website 
